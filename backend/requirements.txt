@@ -1,5 +1,8 @@
-
-
+Django
+djangorestframework
+pygments
+mpmath
 
 #
+httpie
 pre-commit
